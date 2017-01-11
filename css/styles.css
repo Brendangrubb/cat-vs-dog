@@ -1,0 +1,47 @@
+body {
+  background-color: #CFF0B6;
+}
+
+img {
+  margin-left: 130px;
+  height: : 300;
+  width: 300px;
+}
+
+
+.cat-well {
+  padding: 1px;
+  border: 2px solid #86C3ED;
+
+}
+
+.dog-well {
+  padding: 1px;
+  border: 2px solid #F5AD3E;
+
+}
+
+.jumbotron {
+  background-color: #F79895;
+}
+
+.row p {
+  text-align: center;
+  font-size: 20;
+}
+
+.cat-btn {
+  background-color: #86C3ED;
+  margin-left: 173px;
+  font-size: 16px;
+}
+
+.dog-btn {
+  background-color: #F5AD3E;
+  margin-left: 173px;
+  font-size: 16px;
+}
+
+.cat-response, .dog-response{
+  padding-left: 213px;
+}
