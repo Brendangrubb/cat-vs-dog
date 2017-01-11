@@ -1,13 +1,13 @@
 body {
   background-color: #CFF0B6;
+  border: 3px solid #FAFF91;
+  border-radius: 25px;
 }
 
 img {
   margin-left: 130px;
-  height: : 300;
-  width: 300px;
+  max-width: 300px;
 }
-
 
 .cat-well {
   padding: 1px;
@@ -42,6 +42,21 @@ img {
   font-size: 16px;
 }
 
-.cat-response, .dog-response{
-  padding-left: 213px;
+#cat-response{
+  float: right;
+  padding-right: 28px;
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: Georgia serif;
+  list-style: none;
+  color: #86C3ED;
 }
+
+#dog-response{
+  float: left;
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: Verdana Geneva sans-serif;;
+  list-style: none;
+  color: #F5AD3E;
+}'
